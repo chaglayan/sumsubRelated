@@ -5,7 +5,7 @@ description: Explain and maintain Xcoins Sumsub KYC flows, US NonDoc checks, and
 
 # Xcoins Sumsub
 
-Read references/kyc-process.md before advising on this integration. Distinguish observed configuration from proposed changes and unknowns. Source: user-supplied screenshots on 2026-11-02; no live configuration or provider documentation has been verified.
+Read references/kyc-process.md before advising on this integration. Distinguish observed configuration from proposed changes and unknowns. Source: user-supplied screenshots on 2026-11-02; no live configuration has been verified. A documentation investigation through the Sumsub plugin is recorded in references/kyc-process.md; keep documentation findings separate from screenshot evidence and untested implementation.
 
 The user's goal is to reduce false rejections when a customer's surname differs, potentially after marriage. Diagnose the actual failing check before changing policy. Do not assume marriage or use sex/gender as exception eligibility. Prefer a surname-discrepancy review route available to any customer.
 
